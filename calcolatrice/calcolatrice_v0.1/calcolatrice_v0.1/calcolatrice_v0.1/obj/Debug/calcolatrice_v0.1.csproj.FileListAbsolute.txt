@@ -1,0 +1,11 @@
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\bin\Debug\calcolatrice_v0.1.exe.config
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\bin\Debug\calcolatrice_v0.1.exe
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\bin\Debug\calcolatrice_v0.1.pdb
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0.1.csproj.AssemblyReference.cache
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0._1.Form1.resources
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0._1.Properties.Resources.resources
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0.1.csproj.GenerateResource.cache
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0.1.csproj.CoreCompileInputs.cache
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0.1.exe
+C:\Users\SME\Desktop\formazione\C#\calcolatrice\calcolatrice_v0.1\calcolatrice_v0.1\obj\Debug\calcolatrice_v0.1.pdb
